@@ -13,7 +13,7 @@
     - SQL
     - JavaScript
     - I want to upskill further in JavaScript
-    - 
+      
 3. **Interests and Values**:
    
     Interests:
