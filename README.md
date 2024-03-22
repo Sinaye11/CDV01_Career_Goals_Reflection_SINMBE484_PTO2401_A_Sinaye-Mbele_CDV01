@@ -35,8 +35,11 @@
 1. **Industries and Roles Explored**:
 
    -**Junior Software Developer:** Entry-level software developer who assists the development team with all aspects of software design and coding.
-   -**Font-End Developer:** A developer who specializes in creating and designing the user interface (UI) and user experience (UX) of websites and web applications..
-   -**Software Developer:** Utilize their programming skills to create new software and improve existing software applications
+   
+   -**Font-End Developer:** A developer who specializes in creating and designing the user interface (UI) and user experience (UX) of websites and web applications.
+   
+   -**Software Developer:** Utilize their programming skills to create new software and improve existing software applications.
+   
    -**Full Stack Developer:** Design and create websites and applications for various platforms.
    
 3. **Alignment with Personal Profile**:
