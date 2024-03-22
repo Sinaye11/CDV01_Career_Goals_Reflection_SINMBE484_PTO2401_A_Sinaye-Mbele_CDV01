@@ -1,87 +1,87 @@
-
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
-
+- **Name: Sinaye Mbele**
+- **Date: 21 March 2024**
+- **Current Role/Position: Quality Assurance Tester and a part-time student at CodeSpace**
+- **Field of Interest: Software Developer/Full Stack Developer/Front-End Developer**
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+2. 
+    - HTML & CSS
+    - Java
+    - SQL
+    - JavaScript
+    - I want to upskill further in JavaScript
+    - 
+3. **Interests and Values**:
+   
+    Interests:
+    - A strong interest in both front-end and back-end technologies
+    - A passion for problem-solving and debugging
+    - A desire to learn and stay up-to-date with the latest web development trends and technologies
+    - A keen eye for design and user experience
+    - A desire to create visually appealing and user-friendly websites
+      
+    Values:
+    - Collaboration
+    - Autonomy
+    - Work-life balance
+    - Flexibility
+    - Continuous learning
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
+
+   -**Junior Software Developer:** Entry-level software developer who assists the development team with all aspects of software design and coding.
+   -**Font-End Developer:** A developer who specializes in creating and designing the user interface (UI) and user experience (UX) of websites and web applications..
+   -**Software Developer:** Utilize their programming skills to create new software and improve existing software applications
+   -**Full Stack Developer:** Design and create websites and applications for various platforms.
+   
+3. **Alignment with Personal Profile**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
-2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Full stack developers often use Java on the back end of web applications. It can be used to create web services, handle database interactions, and perform other server-side            functions.
+    - JavaScript is a critical tool for both full-stack and front-end developers, this aligns well with me as I am continuously learning the language and want to go in as much depth         as possible.
+    - Continuous learning in JavaScript and Java.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Finish the Software Development course with Codespace
+    - Get a job as a Full Stack Developer or Front End Developer
+      
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Become an intermediate software developer or full-stack developer
+    - Lead a software development project
+    - Learn new programming languages
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Complete the Software Developer course with CodeSpace 
+    - To practice coding every day
+    - Constantly update Github with assignments and personal projects showcasing my skills and knowledge of the different frameworks 
+
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Constant upskilling and working on my portfolio
+    - Constantly update Github with intricate personal projects showcasing my skills and level of growth
+    - Growing my networking circle
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Getting a Software Developer role after completing studies.
+    - Work-life and study balance
+    - Debugging and complexity
+      
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
-
+    - Networking
+    - Mentorship
+    - Continuous learning
