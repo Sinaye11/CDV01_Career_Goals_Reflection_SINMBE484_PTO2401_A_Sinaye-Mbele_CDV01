@@ -46,7 +46,7 @@
     
     - Full stack developers often use Java on the back end of web applications. It can be used to create web services, handle database interactions, and perform other server-side            functions.
     - JavaScript is a critical tool for both full-stack and front-end developers, this aligns well with me as I am continuously learning the language and want to go in as much depth         as possible.
-    - Continuous learning in JavaScript and Java.
+    - Continuous learning in JavaScript, Java, HTML&CSS, and React.
 
 ### Part 3: SMART Career Goals
 
